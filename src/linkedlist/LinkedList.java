@@ -713,7 +713,7 @@ public class LinkedList {
             slow=slow.next;
             fast=fast.next.next;
         }
-
+            // 1 2 1 2
         Node rightHead=slow.next;
         Node prev=null,next;
         Node curr=rightHead;
