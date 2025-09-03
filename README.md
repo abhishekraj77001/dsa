@@ -1,1 +1,1412 @@
-[object Object]
+{
+  "trendingJobs": [
+    {
+      "jobId": 1,
+      "colorClass": "red"
+    },
+    {
+      "jobId": 2,
+      "colorClass": "blue"
+    },
+    {
+      "jobId": 10,
+      "colorClass": "orange"
+    },
+    {
+      "jobId": 4,
+      "colorClass": "green"
+    },
+    {
+      "jobId": 12,
+      "colorClass": "purple"
+    },
+    {
+      "jobId": 11,
+      "colorClass": "red"
+    },
+    {
+      "jobId": 7,
+      "colorClass": "pink"
+    },
+    {
+      "jobId": 8,
+      "colorClass": "darkblue"
+    },
+    {
+      "jobId": 5,
+      "colorClass": "green"
+    },
+    {
+      "jobId": 13,
+      "colorClass": "orange"
+    },
+    {
+      "jobId": 9,
+      "colorClass": "blue"
+    },
+    {
+      "jobId": 3,
+      "colorClass": "red"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "name": "DRDO Graduate / Diploma / ITI Apprentice Online Form 2023",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "important_links": [
+        {
+          "name": "Apply Online",
+          "url": "https://drdo.gov.in/recruitment"
+        },
+        {
+          "name": "Official Notification",
+          "url": "https://drdo.gov.in/notification"
+        },
+        {
+          "name": "Official Website",
+          "url": "https://drdo.gov.in"
+        }
+      ],
+      "organizationName": "Defence Research and Development Organisation (DRDO)",
+      "recruitmentTitle": "Graduate / Diploma / ITI Apprentice Recruitment",
+      "totalPosts": 150,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "BE/BTech/Diploma/ITI in relevant trade"
+      ],
+      "maxAgeNote": "Maximum Age: 25 Years (Age Relaxation Available)",
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "05/01/2021"
+        },
+        {
+          "label": "Last Date For Apply Online",
+          "value": "20/01/2021"
+        },
+        {
+          "label": "Exam Date",
+          "value": "Feb 2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "0/-",
+        "scStPh": "0/-",
+        "paymentNote": "No Fee for all categories"
+      },
+      "vacancy": {
+        "postName": "Apprentice (Various Trades)",
+        "gen": 60,
+        "obc": 40,
+        "ews": 15,
+        "sc": 25,
+        "st": 10,
+        "total": 150
+      },
+      "detailedSyllabusUrl": "https://drdo.gov.in/syllabus/apprentice-2021",
+      "previousYearPapersUrl": "https://drdo.gov.in/papers/apprentice",
+      "previousAnswerKeysUrl": "https://drdo.gov.in/answerkeys/apprentice",
+      "previousResultsUrl": "https://drdo.gov.in/results/apprentice",
+      "freeTopperNotesUrl": "https://examwala.net/notes/drdo-apprentice",
+      "freeMaterialUrl": "https://examwala.net/material/drdo-apprentice",
+      "currentAffairNotesUrl": "https://examwala.net/current-affairs",
+      "jobProfileDetailsUrl": "https://examwala.net/job-profile/drdo-apprentice",
+      "state": "Delhi",
+      "degree": "Graduate",
+      "sector": "Defence",
+      "infoSection": {
+        "newsUpdate": "DRDO has announced new apprentice positions for 2021. The recruitment process will be conducted online with increased vacancies compared to previous years.",
+        "jobProfile": "DRDO Apprentice positions offer excellent opportunities for technical graduates and diploma holders. Apprentices work on cutting-edge defense technology projects, gaining hands-on experience in research and development. The role involves working with senior scientists and engineers on various defense projects.",
+        "syllabus": "The DRDO Apprentice exam covers: Technical subjects based on the candidate's qualification (BE/BTech/Diploma/ITI), General Knowledge, Current Affairs, Basic Mathematics, English Language, and Logical Reasoning. The exam is objective type with negative marking.",
+        "examDetails": "DRDO Apprentice Recruitment 2021 is conducted by the Defence Research and Development Organisation. The selection process includes: Written Test (200 marks, 2 hours), Document Verification, and Medical Examination. The exam will be held in multiple centers across India."
+      },
+      "official_redirect_url": ""
+    },
+    {
+      "id": 2,
+      "name": "RSMSSB Forest Guard / Forester Online Form 2020 (Extended)",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "important_links": [
+        {
+          "name": "Apply Online",
+          "url": "https://rsmssb.rajasthan.gov.in/recruitment"
+        },
+        {
+          "name": "Official Notification",
+          "url": "https://rsmssb.rajasthan.gov.in/notification"
+        }
+      ],
+      "organizationName": "Rajasthan Subordinate and Ministerial Services Selection Board (RSMSSB)",
+      "recruitmentTitle": "Forest Guard / Forester Recruitment 2020",
+      "totalPosts": 1041,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "12th Pass / Graduate as per post"
+      ],
+      "maxAgeNote": "Maximum Age: 25 Years (Age Relaxation Available)",
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "08/12/2020"
+        },
+        {
+          "label": "Last Date For Apply Online",
+          "value": "07/01/2021"
+        },
+        {
+          "label": "Exam Date",
+          "value": "2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "450/-",
+        "scStPh": "250/-",
+        "paymentNote": "Online payment only"
+      },
+      "state": "Rajasthan",
+      "degree": "12th Pass",
+      "sector": "Forest",
+      "infoSection": {
+        "newsUpdate": "RSMSSB has extended the application deadline for Forest Guard and Forester positions. The board has increased the number of vacancies to 1041 posts.",
+        "jobProfile": "Forest Guard and Forester positions in Rajasthan involve protecting forest resources, preventing illegal activities, and maintaining ecological balance. The role requires physical fitness and knowledge of local geography and wildlife.",
+        "syllabus": "The RSMSSB Forest Guard exam includes: General Knowledge, Current Affairs, Rajasthan Geography and Culture, Basic Mathematics, English/Hindi Language, and Environmental Studies. Physical efficiency test is also part of the selection process.",
+        "examDetails": "RSMSSB Forest Guard Recruitment 2020 selection process: Written Test (200 marks), Physical Efficiency Test (PET), Physical Standard Test (PST), and Document Verification. The exam is conducted by Rajasthan Subordinate and Ministerial Services Selection Board."
+      },
+      "vacancy": {
+        "postName": "Forest Guard / Forester",
+        "gen": 420,
+        "obc": 280,
+        "ews": 100,
+        "sc": 150,
+        "st": 91,
+        "total": 1041,
+        "eligibilityBullets": [
+          "12th Pass / Graduate as per post",
+          "Knowledge of Rajasthan culture"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Uttar Pradesh Legislative Assembly Sachivalya Online Form 2020",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "important_links": [
+        {
+          "name": "Apply Online",
+          "url": "https://uplegisassembly.gov.in/recruitment"
+        },
+        {
+          "name": "Official Website",
+          "url": "https://uplegisassembly.gov.in"
+        }
+      ],
+      "organizationName": "UP Legislative Assembly (Sachivalaya)",
+      "recruitmentTitle": "Various Posts Recruitment 2020",
+      "totalPosts": 87,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "10th/12th/Graduate per post"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "08/12/2020"
+        },
+        {
+          "label": "Last Date",
+          "value": "07/01/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "950/-",
+        "scStPh": "850/-",
+        "paymentNote": "Debit/Credit Card, Net Banking"
+      },
+      "state": "UP",
+      "degree": "Graduate",
+      "sector": "Administrative",
+      "infoSection": {
+        "newsUpdate": "UP Legislative Assembly has announced recruitment for various Group C and D posts in Sachivalaya. The application process is now open for 87 positions.",
+        "jobProfile": "Sachivalaya positions involve administrative and clerical work in the UP Legislative Assembly. Duties include maintaining records, processing documents, and providing support to legislative functions.",
+        "syllabus": "The UP Legislative Assembly exam covers: General Knowledge, Current Affairs, Basic Mathematics, English/Hindi Language, Computer Knowledge, and General Intelligence. The exam is objective type.",
+        "examDetails": "UP Legislative Assembly Recruitment 2020 selection process includes: Written Test, Typing Test (for certain posts), and Document Verification. The exam is conducted by UP Legislative Assembly authorities."
+      },
+      "vacancy": {
+        "postName": "Various Group C/D Posts",
+        "gen": 40,
+        "obc": 23,
+        "ews": 8,
+        "sc": 12,
+        "st": 4,
+        "total": 87,
+        "eligibilityBullets": [
+          "10th/12th/Graduate per post"
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Bihar State Health Society SHSB Staff Nurse Online Form 2021",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "important_links": [
+        {
+          "name": "Apply Online",
+          "url": "https://shsb.bihar.gov.in/recruitment"
+        },
+        {
+          "name": "Official Notification",
+          "url": "https://shsb.bihar.gov.in/notification"
+        },
+        {
+          "name": "Official Website",
+          "url": "https://shsb.bihar.gov.in"
+        },
+        {
+          "name": "Application Status",
+          "url": "https://shsb.bihar.gov.in/status"
+        }
+      ],
+      "organizationName": "State Health Society Bihar (SHSB)",
+      "recruitmentTitle": "Staff Nurse Recruitment 2021",
+      "totalPosts": 4102,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "GNM/B.Sc Nursing with registration"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "31/12/2020"
+        },
+        {
+          "label": "Last Date",
+          "value": "20/01/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "500/-",
+        "scStPh": "250/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "Bihar State Health Society has announced massive recruitment for Staff Nurse positions. The application process is now open for 4102 vacancies across the state.",
+        "jobProfile": "Staff Nurse positions in Bihar involve providing nursing care in government health facilities. Duties include patient care, medication administration, and maintaining medical records.",
+        "syllabus": "The SHSB Staff Nurse exam covers: Nursing fundamentals, Medical-Surgical Nursing, Community Health Nursing, Mental Health Nursing, and General Knowledge.",
+        "examDetails": "SHSB Staff Nurse Recruitment 2021 selection process includes: Written Test (100 marks), Document Verification, and Medical Examination. The exam will be held in multiple centers across Bihar."
+      },
+      "vacancy": {
+        "postName": "Staff Nurse",
+        "gen": 1600,
+        "obc": 1100,
+        "ews": 400,
+        "sc": 700,
+        "st": 302,
+        "total": 4102,
+        "eligibilityBullets": [
+          "GNM/B.Sc Nursing with registration"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Bihar State Health Society Accountant SHSB Online Form 2021",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "important_links": [
+        {
+          "name": "Apply Online",
+          "url": "https://shsb.bihar.gov.in/accountant"
+        },
+        {
+          "name": "Official Website",
+          "url": "https://shsb.bihar.gov.in"
+        }
+      ],
+      "organizationName": "State Health Society Bihar (SHSB)",
+      "recruitmentTitle": "Accountant Recruitment 2021",
+      "totalPosts": 84,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "B.Com/M.Com with experience"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "08/01/2021"
+        },
+        {
+          "label": "Last Date",
+          "value": "28/01/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "500/-",
+        "scStPh": "250/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "Bihar State Health Society is recruiting qualified accountants for various health facilities. The recruitment aims to strengthen financial management in healthcare.",
+        "jobProfile": "Accountant positions involve maintaining financial records, preparing budgets, processing payments, and ensuring compliance with government financial regulations.",
+        "syllabus": "The SHSB Accountant exam covers: Accounting principles, Financial management, Government accounting procedures, Computer applications, and General Knowledge.",
+        "examDetails": "SHSB Accountant Recruitment 2021 selection process: Written Test (100 marks), Computer proficiency test, and Document Verification."
+      },
+      "vacancy": {
+        "postName": "Accountant",
+        "gen": 35,
+        "obc": 22,
+        "ews": 8,
+        "sc": 12,
+        "st": 7,
+        "total": 84,
+        "eligibilityBullets": [
+          "B.Com/M.Com with experience"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Rajasthan High Court District Judge Online Form 2021",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "important_links": [
+        {
+          "name": "Apply Online",
+          "url": "https://hcraj.nic.in/recruitment"
+        },
+        {
+          "name": "Official Notification",
+          "url": "https://hcraj.nic.in/notification"
+        },
+        {
+          "name": "Official Website",
+          "url": "https://hcraj.nic.in"
+        }
+      ],
+      "organizationName": "Rajasthan High Court",
+      "recruitmentTitle": "District Judge Recruitment 2021",
+      "totalPosts": 85,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "LLB + 7 years practice"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "27/01/2021"
+        },
+        {
+          "label": "Last Date",
+          "value": "27/02/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "1100/-",
+        "scStPh": "550/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "Rajasthan High Court has announced recruitment for District Judge positions. This is a prestigious opportunity for qualified legal professionals.",
+        "jobProfile": "District Judge positions involve presiding over district courts, handling civil and criminal cases, and ensuring justice delivery at the district level.",
+        "syllabus": "The Rajasthan High Court District Judge exam covers: Constitutional Law, Civil Procedure Code, Criminal Procedure Code, Evidence Act, and other relevant laws.",
+        "examDetails": "Rajasthan High Court District Judge Recruitment 2021 selection process: Written Test, Viva Voce, and Document Verification."
+      },
+      "vacancy": {
+        "postName": "District Judge",
+        "gen": 35,
+        "obc": 20,
+        "ews": 10,
+        "sc": 12,
+        "st": 8,
+        "total": 85,
+        "eligibilityBullets": [
+          "LLB + 7 years practice"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Coast Guard Yantrik / Navik Online Form 2020",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "important_links": [
+        {
+          "name": "Apply Online",
+          "url": "https://joinindiancoastguard.gov.in/recruitment"
+        },
+        {
+          "name": "Official Website",
+          "url": "https://joinindiancoastguard.gov.in"
+        }
+      ],
+      "organizationName": "Indian Coast Guard",
+      "recruitmentTitle": "Yantrik / Navik Recruitment 2020",
+      "totalPosts": 358,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "10+2 with Math/Physics (GD)",
+        "10th Pass (DB)",
+        "Diploma (Yantrik)"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "05/01/2021"
+        },
+        {
+          "label": "Last Date",
+          "value": "19/01/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "250/-",
+        "scStPh": "0/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "Indian Coast Guard has announced recruitment for Yantrik and Navik positions. This is an excellent opportunity for technical and non-technical candidates.",
+        "jobProfile": "Coast Guard positions involve maritime security, search and rescue operations, and protecting India's maritime interests in coastal waters.",
+        "syllabus": "The Coast Guard exam covers: General Knowledge, Current Affairs, Mathematics, Physics, English, and Logical Reasoning.",
+        "examDetails": "Coast Guard Yantrik/Navik Recruitment 2020 selection process: Written Test, Physical Fitness Test, Medical Examination, and Document Verification."
+      },
+      "vacancy": {
+        "postName": "Navik GD / Navik DB / Yantrik",
+        "gen": 150,
+        "obc": 90,
+        "ews": 40,
+        "sc": 50,
+        "st": 28,
+        "total": 358,
+        "eligibilityBullets": [
+          "10+2 with Math/Physics (GD)",
+          "10th Pass (DB)",
+          "Diploma (Yantrik)"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Indian Army NCC 49th Entry Online Form 2020",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "organizationName": "Indian Army",
+      "recruitmentTitle": "NCC Special Entry 49th Course",
+      "totalPosts": 55,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "NCC C Certificate + Graduate"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "29/12/2020"
+        },
+        {
+          "label": "Last Date",
+          "value": "28/01/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "0/-",
+        "scStPh": "0/-",
+        "paymentNote": "No Fee"
+      },
+      "infoSection": {
+        "newsUpdate": "Indian Army has announced NCC Special Entry for the 49th Course. This is a prestigious opportunity for NCC certificate holders.",
+        "jobProfile": "NCC Special Entry positions lead to commissioning as officers in the Indian Army. Duties include leadership, training, and operational responsibilities.",
+        "syllabus": "The Indian Army NCC exam covers: General Knowledge, Current Affairs, Mathematics, English, and Logical Reasoning.",
+        "examDetails": "Indian Army NCC 49th Entry selection process: Written Test, SSB Interview, Medical Examination, and Document Verification."
+      },
+      "vacancy": {
+        "postName": "NCC Special Entry",
+        "gen": 25,
+        "obc": 15,
+        "ews": 5,
+        "sc": 6,
+        "st": 4,
+        "total": 55,
+        "eligibilityBullets": [
+          "NCC C Certificate + Graduate"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "name": "MPPSC State Engineering Service Online Form 2021",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "organizationName": "Madhya Pradesh Public Service Commission (MPPSC)",
+      "recruitmentTitle": "State Engineering Service 2021",
+      "totalPosts": 300,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "BE/BTech in relevant branch"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "15/01/2021"
+        },
+        {
+          "label": "Last Date",
+          "value": "10/02/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "1200/-",
+        "scStPh": "600/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "MPPSC has announced State Engineering Service recruitment for 2021. This is a prestigious opportunity for engineering graduates.",
+        "jobProfile": "Assistant Engineer positions involve planning, designing, and supervising engineering projects in various government departments.",
+        "syllabus": "The MPPSC State Engineering Service exam covers: Engineering subjects, General Studies, and General Knowledge.",
+        "examDetails": "MPPSC State Engineering Service 2021 selection process: Written Test, Interview, and Document Verification."
+      },
+      "vacancy": {
+        "postName": "Assistant Engineer",
+        "gen": 120,
+        "obc": 80,
+        "ews": 30,
+        "sc": 45,
+        "st": 25,
+        "total": 300,
+        "eligibilityBullets": [
+          "BE/BTech in relevant branch"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "name": "Haryana Police Constable HSSC Online Form 2021",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "organizationName": "Haryana Staff Selection Commission (HSSC)",
+      "recruitmentTitle": "Police Constable Recruitment 2021",
+      "totalPosts": 7298,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "12th Pass + Other criteria"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "11/01/2021"
+        },
+        {
+          "label": "Last Date",
+          "value": "10/02/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "100/-",
+        "scStPh": "25/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "Haryana Police has announced massive recruitment for Constable positions. The application process is now open for 7298 vacancies.",
+        "jobProfile": "Police Constable positions involve maintaining law and order, traffic management, and ensuring public safety in Haryana.",
+        "syllabus": "The HSSC Police Constable exam covers: General Knowledge, Current Affairs, Mathematics, and Hindi/English.",
+        "examDetails": "HSSC Police Constable Recruitment 2021 selection process: Written Test, Physical Efficiency Test, and Document Verification."
+      },
+      "vacancy": {
+        "postName": "Constable (GD)",
+        "gen": 3000,
+        "obc": 2100,
+        "ews": 800,
+        "sc": 900,
+        "st": 498,
+        "total": 7298,
+        "eligibilityBullets": [
+          "12th Pass + Other criteria"
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "UPPSC Agriculture Service Online Form 2021",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "organizationName": "Uttar Pradesh Public Service Commission (UPPSC)",
+      "recruitmentTitle": "Agriculture Service 2021",
+      "totalPosts": 564,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "Graduation in Agriculture/Allied"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "29/12/2020"
+        },
+        {
+          "label": "Last Date",
+          "value": "29/01/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "125/-",
+        "scStPh": "65/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "UPPSC has announced Agriculture Service recruitment for 2021. This is an excellent opportunity for agriculture graduates.",
+        "jobProfile": "Agriculture Service positions involve agricultural research, extension work, and implementing agricultural policies in Uttar Pradesh.",
+        "syllabus": "The UPPSC Agriculture Service exam covers: Agriculture subjects, General Studies, and General Knowledge.",
+        "examDetails": "UPPSC Agriculture Service 2021 selection process: Written Test, Interview, and Document Verification."
+      },
+      "vacancy": {
+        "postName": "Various Agriculture Posts",
+        "gen": 230,
+        "obc": 160,
+        "ews": 60,
+        "sc": 80,
+        "st": 34,
+        "total": 564,
+        "eligibilityBullets": [
+          "Graduation in Agriculture/Allied"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "MPPSC Pre SSE / SFE Online Form 2021",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": false,
+      "isOngoing": true,
+      "link": "/job-detail",
+      "organizationName": "Madhya Pradesh Public Service Commission (MPPSC)",
+      "recruitmentTitle": "State Service Exam (SSE) / Forest Exam (SFE) 2021",
+      "totalPosts": 345,
+      "brandLabel": "Sarkari Result",
+      "eligibilityBullets": [
+        "Graduate in any stream (SSE)",
+        "Degree in Science (SFE)"
+      ],
+      "uploads": [
+        "Photograph",
+        "Signature",
+        "Aadhar PDF",
+        "Category Certificate"
+      ],
+      "importantDates": [
+        {
+          "label": "Application Begin",
+          "value": "11/01/2021"
+        },
+        {
+          "label": "Last Date",
+          "value": "10/02/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "1000/-",
+        "scStPh": "500/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "MPPSC has announced State Service Exam and Forest Service Exam for 2021. This is a prestigious opportunity for graduates.",
+        "jobProfile": "SSE/SFE positions involve administrative and forest service roles in various government departments of Madhya Pradesh.",
+        "syllabus": "The MPPSC SSE/SFE exam covers: General Studies, General Knowledge, and Optional subjects.",
+        "examDetails": "MPPSC SSE/SFE 2021 selection process: Preliminary Exam, Main Exam, Interview, and Document Verification."
+      },
+      "vacancy": {
+        "postName": "Various SSE/SFE Posts",
+        "gen": 140,
+        "obc": 95,
+        "ews": 35,
+        "sc": 50,
+        "st": 25,
+        "total": 345,
+        "eligibilityBullets": [
+          "Graduate in any stream (SSE)",
+          "Degree in Science (SFE)"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "Railway RRB NTPC Phase II Exam City Details 2021",
+      "isAdmitcardAvailble": true,
+      "isResultAvailble": false,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "Railway Recruitment Board (RRB)",
+      "recruitmentTitle": "NTPC Phase II Exam",
+      "totalPosts": 35277,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "Exam City Released",
+          "value": "2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "500/-",
+        "scStPh": "250/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "Railway RRB NTPC Phase II exam city details have been released. Candidates can check their exam centers and download admit cards.",
+        "jobProfile": "NTPC positions involve various technical and non-technical roles in Indian Railways across different departments.",
+        "syllabus": "The RRB NTPC exam covers: General Awareness, Mathematics, General Intelligence, and Reasoning.",
+        "examDetails": "RRB NTPC Phase II exam will be conducted in multiple cities across India. Admit cards are now available for download."
+      },
+      "vacancy": {
+        "postName": "NTPC Various Posts",
+        "gen": 14000,
+        "obc": 9500,
+        "ews": 3500,
+        "sc": 5500,
+        "st": 2777,
+        "total": 35277,
+        "eligibilityBullets": [
+          "10+2/Graduate as per post"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "name": "State Bank of India SBI Pre Admit Card 2020",
+      "isAdmitcardAvailble": true,
+      "isResultAvailble": false,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "State Bank of India (SBI)",
+      "recruitmentTitle": "Prelims Admit Card 2020",
+      "totalPosts": 2000,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "Admit Card Available",
+          "value": "2020"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "750/-",
+        "scStPh": "0/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "SBI has released Prelims admit cards for 2020 recruitment. Candidates can download their admit cards from the official website.",
+        "jobProfile": "SBI PO/Clerk positions involve banking operations, customer service, and various administrative functions in State Bank of India.",
+        "syllabus": "The SBI Prelims exam covers: English Language, Quantitative Aptitude, and Reasoning Ability.",
+        "examDetails": "SBI Prelims 2020 exam will be conducted as per the schedule. Admit cards are now available for download."
+      },
+      "vacancy": {
+        "postName": "PO/Clerk (as applicable)",
+        "gen": 810,
+        "obc": 540,
+        "ews": 200,
+        "sc": 300,
+        "st": 150,
+        "total": 2000,
+        "eligibilityBullets": [
+          "Graduate in any stream"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "name": "UPSC Civil Service 2019 Reserve List",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": true,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "Union Public Service Commission (UPSC)",
+      "recruitmentTitle": "Civil Services Examination 2019",
+      "totalPosts": 927,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "Result",
+          "value": "2020"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "100/-",
+        "scStPh": "0/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "UPSC has released the reserve list for Civil Services Examination 2019. Additional candidates have been recommended for various services.",
+        "jobProfile": "Civil Services positions include IAS, IPS, IFS, and other central services involving administrative, police, and diplomatic roles.",
+        "syllabus": "The UPSC Civil Services exam covers: General Studies, Optional subjects, and Essay writing.",
+        "examDetails": "UPSC Civil Services 2019 reserve list has been released. Additional candidates have been recommended based on merit."
+      },
+      "vacancy": {
+        "postName": "Civil Services (IAS/IPS/IFS etc.)",
+        "gen": 370,
+        "obc": 240,
+        "ews": 90,
+        "sc": 160,
+        "st": 67,
+        "total": 927,
+        "eligibilityBullets": [
+          "Graduate in any stream"
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "name": "Delhi High Court HJS Final Result 2020",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": true,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "Delhi High Court",
+      "recruitmentTitle": "Higher Judicial Service 2020",
+      "totalPosts": 19,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "Final Result",
+          "value": "2020"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "1000/-",
+        "scStPh": "200/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "Delhi High Court has released the final result for Higher Judicial Service 2020. Selected candidates have been notified.",
+        "jobProfile": "HJS positions involve judicial functions in Delhi High Court, including hearing cases and delivering judgments.",
+        "syllabus": "The Delhi High Court HJS exam covers: Law subjects, General Knowledge, and Judicial procedures.",
+        "examDetails": "Delhi High Court HJS 2020 final result has been declared. Selected candidates will be appointed as judges."
+      },
+      "vacancy": {
+        "postName": "HJS",
+        "gen": 9,
+        "obc": 5,
+        "ews": 2,
+        "sc": 2,
+        "st": 1,
+        "total": 19,
+        "eligibilityBullets": [
+          "LLB + 7 years practice"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "name": "SSC CGL 2021 Tier-I Admit Card",
+      "isAdmitcardAvailble": true,
+      "isResultAvailble": false,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "Staff Selection Commission (SSC)",
+      "recruitmentTitle": "Combined Graduate Level 2021",
+      "totalPosts": 6500,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "Admit Card Available",
+          "value": "08/07/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "100/-",
+        "scStPh": "0/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "SSC has released CGL 2021 Tier-I admit cards. Candidates can download their admit cards from the official website.",
+        "jobProfile": "CGL positions involve various Group B and C posts in government departments, including administrative and clerical roles.",
+        "syllabus": "The SSC CGL exam covers: General Intelligence, General Knowledge, Quantitative Aptitude, and English Language.",
+        "examDetails": "SSC CGL 2021 Tier-I exam will be conducted as per schedule. Admit cards are now available for download."
+      },
+      "vacancy": {
+        "postName": "CGL Various Posts",
+        "gen": 2600,
+        "obc": 1750,
+        "ews": 650,
+        "sc": 975,
+        "st": 525,
+        "total": 6500,
+        "eligibilityBullets": [
+          "Graduate in any stream"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "name": "IBPS Clerk XII Pre Exam Admit Card",
+      "isAdmitcardAvailble": true,
+      "isResultAvailble": false,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "Institute of Banking Personnel Selection (IBPS)",
+      "recruitmentTitle": "Clerk XII Recruitment",
+      "totalPosts": 6035,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "Admit Card Available",
+          "value": "11/08/2022"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "850/-",
+        "scStPh": "175/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "IBPS has released Clerk XII Prelims admit cards. Candidates can download their admit cards from the official website.",
+        "jobProfile": "IBPS Clerk positions involve banking operations, customer service, and various clerical functions in public sector banks.",
+        "syllabus": "The IBPS Clerk exam covers: English Language, Numerical Ability, and Reasoning Ability.",
+        "examDetails": "IBPS Clerk XII Prelims exam will be conducted as per schedule. Admit cards are now available for download."
+      },
+      "vacancy": {
+        "postName": "Clerk",
+        "gen": 2500,
+        "obc": 1600,
+        "ews": 600,
+        "sc": 900,
+        "st": 435,
+        "total": 6035,
+        "eligibilityBullets": [
+          "Graduate in any stream"
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "name": "UP Police Constable PET Admit Card 2020",
+      "isAdmitcardAvailble": true,
+      "isResultAvailble": false,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)",
+      "recruitmentTitle": "Constable PET Admit Card",
+      "totalPosts": 49568,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "PET Admit Card",
+          "value": "12/12/2020"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "400/-",
+        "scStPh": "0/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "UP Police has released PET admit cards for Constable recruitment 2020. Candidates can download their admit cards.",
+        "jobProfile": "UP Police Constable positions involve maintaining law and order, traffic management, and ensuring public safety in Uttar Pradesh.",
+        "syllabus": "The UP Police Constable exam covers: General Knowledge, Current Affairs, Mathematics, and Hindi/English.",
+        "examDetails": "UP Police Constable PET 2020 will be conducted as per schedule. Admit cards are now available for download."
+      },
+      "vacancy": {
+        "postName": "Constable",
+        "gen": 19800,
+        "obc": 13300,
+        "ews": 4900,
+        "sc": 7850,
+        "st": 1718,
+        "total": 49568,
+        "eligibilityBullets": [
+          "10+2 Intermediate Exam"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "name": "RBI Assistant Mains 2020 Result",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": true,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "Reserve Bank of India (RBI)",
+      "recruitmentTitle": "Assistant 2020",
+      "totalPosts": 926,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "Result",
+          "value": "25/11/2020"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "450/-",
+        "scStPh": "50/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "RBI has released the final result for Assistant 2020 recruitment. Selected candidates have been notified.",
+        "jobProfile": "RBI Assistant positions involve clerical and administrative functions in Reserve Bank of India.",
+        "syllabus": "The RBI Assistant exam covers: English Language, Numerical Ability, Reasoning Ability, and General Awareness.",
+        "examDetails": "RBI Assistant 2020 final result has been declared. Selected candidates will be appointed as per merit."
+      },
+      "vacancy": {
+        "postName": "Assistant",
+        "gen": 370,
+        "obc": 240,
+        "ews": 90,
+        "sc": 160,
+        "st": 66,
+        "total": 926,
+        "eligibilityBullets": [
+          "Graduate in any stream"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "name": "NTA UGC NET June 2020 Result",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": true,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "National Testing Agency (NTA)",
+      "recruitmentTitle": "UGC NET June 2020",
+      "totalPosts": 0,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "Result",
+          "value": "01/12/2020"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "1000/-",
+        "scStPh": "500/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "NTA has released UGC NET June 2020 results. Candidates can check their results on the official website.",
+        "jobProfile": "UGC NET qualification enables candidates to apply for JRF positions and Assistant Professor roles in universities.",
+        "syllabus": "The UGC NET exam covers: Paper I (General), Paper II (Subject-specific), and Paper III (Research methodology).",
+        "examDetails": "UGC NET June 2020 results have been declared. Qualified candidates can apply for JRF and Assistant Professor positions."
+      },
+      "vacancy": {
+        "postName": "NET (JRF & Assistant Professor)",
+        "gen": 0,
+        "obc": 0,
+        "ews": 0,
+        "sc": 0,
+        "st": 0,
+        "total": 0,
+        "eligibilityBullets": [
+          "Master’s degree with 55% marks (50% for reserved)"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "name": "SSC CHSL 2019 Final Result",
+      "isAdmitcardAvailble": false,
+      "isResultAvailble": true,
+      "isOngoing": false,
+      "link": "/job-detail",
+      "organizationName": "Staff Selection Commission (SSC)",
+      "recruitmentTitle": "Combined Higher Secondary Level 2019",
+      "totalPosts": 4893,
+      "brandLabel": "Sarkari Result",
+      "importantDates": [
+        {
+          "label": "Final Result",
+          "value": "27/09/2021"
+        }
+      ],
+      "applicationFee": {
+        "generalObc": "100/-",
+        "scStPh": "0/-",
+        "paymentNote": "Online payment only"
+      },
+      "infoSection": {
+        "newsUpdate": "SSC has released CHSL 2019 final results. Selected candidates have been notified for various Group C posts.",
+        "jobProfile": "CHSL positions involve various Group C posts in government departments, including clerical and data entry roles.",
+        "syllabus": "The SSC CHSL exam covers: General Intelligence, General Knowledge, Quantitative Aptitude, and English Language.",
+        "examDetails": "SSC CHSL 2019 final results have been declared. Selected candidates will be appointed to various Group C posts."
+      },
+      "vacancy": {
+        "postName": "LDC/DEO/Postal Assistant",
+        "gen": 2000,
+        "obc": 1350,
+        "ews": 500,
+        "sc": 700,
+        "st": 343,
+        "total": 4893,
+        "eligibilityBullets": [
+          "10+2 Intermediate Exam"
+        ]
+      }
+    }
+  ],
+  "secondaryTables": {
+    "admissions": [
+      {
+        "id": 1,
+        "text": "Administrative Officers Recruitment",
+        "tag": "Click here to Apply",
+        "jobId": 1,
+        "organization": "Central Government",
+        "category": "Administrative",
+        "important_links": [
+          {
+            "name": "Apply Online",
+            "url": "https://upsc.gov.in/recruitment"
+          },
+          {
+            "name": "Official Website",
+            "url": "https://upsc.gov.in"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Junior Engineers in Indian Railways",
+        "tag": "Click here to Apply",
+        "jobId": 2,
+        "organization": "Indian Railways",
+        "category": "Engineering",
+        "important_links": [
+          {
+            "name": "Apply Online",
+            "url": "https://indianrailways.gov.in/recruitment"
+          },
+          {
+            "name": "Official Notification",
+            "url": "https://indianrailways.gov.in/notification"
+          },
+          {
+            "name": "Official Website",
+            "url": "https://indianrailways.gov.in"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Clerk Positions in State Secretariat",
+        "tag": "Click here to Apply",
+        "jobId": 3,
+        "organization": "State Government",
+        "category": "Administrative",
+        "important_links": [
+          {
+            "name": "Apply Online",
+            "url": "https://state.gov.in/recruitment"
+          },
+          {
+            "name": "Official Website",
+            "url": "https://state.gov.in"
+          }
+        ]
+      }
+    ],
+    "answerKey": [
+      {
+        "id": 1,
+        "text": "Administrative Officers Recruitment",
+        "tag": "View Answer Key",
+        "jobId": 1,
+        "organization": "Central Government",
+        "category": "Administrative",
+        "important_links": [
+          {
+            "name": "View Answer Key",
+            "url": "https://upsc.gov.in/answer-key"
+          },
+          {
+            "name": "Official Website",
+            "url": "https://upsc.gov.in"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Junior Engineers in Indian Railways",
+        "tag": "View Answer Key",
+        "jobId": 2,
+        "organization": "Indian Railways",
+        "category": "Engineering",
+        "important_links": [
+          {
+            "name": "View Answer Key",
+            "url": "https://indianrailways.gov.in/answer-key"
+          },
+          {
+            "name": "Official Notification",
+            "url": "https://indianrailways.gov.in/notification"
+          },
+          {
+            "name": "Official Website",
+            "url": "https://indianrailways.gov.in"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Clerk Positions in State Secretariat",
+        "tag": "View Answer Key",
+        "jobId": 3,
+        "organization": "State Government",
+        "category": "Administrative",
+        "important_links": [
+          {
+            "name": "View Answer Key",
+            "url": "https://state.gov.in/answer-key"
+          },
+          {
+            "name": "Official Website",
+            "url": "https://state.gov.in"
+          }
+        ]
+      }
+    ],
+    "syllabus": [
+      {
+        "id": 1,
+        "text": "Administrative Officers Recruitment",
+        "tag": "View Syllabus",
+        "jobId": 1,
+        "organization": "Central Government",
+        "category": "Administrative",
+        "important_links": [
+          {
+            "name": "View Syllabus",
+            "url": "https://upsc.gov.in/syllabus"
+          },
+          {
+            "name": "Official Website",
+            "url": "https://upsc.gov.in"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Junior Engineers in Indian Railways",
+        "tag": "View Syllabus",
+        "jobId": 2,
+        "organization": "Indian Railways",
+        "category": "Engineering",
+        "important_links": [
+          {
+            "name": "View Syllabus",
+            "url": "https://indianrailways.gov.in/syllabus"
+          },
+          {
+            "name": "Official Notification",
+            "url": "https://indianrailways.gov.in/notification"
+          },
+          {
+            "name": "Official Website",
+            "url": "https://indianrailways.gov.in"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Clerk Positions in State Secretariat",
+        "tag": "View Syllabus",
+        "jobId": 3,
+        "organization": "State Government",
+        "category": "Administrative",
+        "important_links": [
+          {
+            "name": "View Syllabus",
+            "url": "https://state.gov.in/syllabus"
+          },
+          {
+            "name": "Official Website",
+            "url": "https://state.gov.in"
+          }
+        ]
+      }
+    ]
+  }
+}
