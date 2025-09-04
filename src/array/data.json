@@ -52,7 +52,7 @@
   "jobs": [
     {
       "id": 1,
-      "name": "DRDO Graduate / Diploma / ITI Apprentice Online Form 2022",
+      "name": "DRDO Graduate / Diploma / ITI Apprentice Online Form 2025",
       "isAdmitcardAvailble": false,
       "isResultAvailble": false,
       "isOngoing": true,
@@ -1426,5 +1426,10 @@
       "title": "Latest Govt Exam Updates",
       "link": "https://example.com/exam-updates"
     }
-  ]
+  ],
+  "convenienceBox": {
+    "stateJobs": [
+      "Bangalore"
+    ]
+  }
 }
