@@ -52,7 +52,7 @@
   "jobs": [
     {
       "id": 1,
-      "name": "DRDO Graduate / Diploma / ITI Apprentice Online Form 2021",
+      "name": "DRDO Graduate / Diploma / ITI Apprentice Online Form 2022",
       "isAdmitcardAvailble": false,
       "isResultAvailble": false,
       "isOngoing": true,
@@ -1408,5 +1408,23 @@
         ]
       }
     ]
-  }
+  },
+  "trendingArticles": [
+    {
+      "title": "Job Profile of Bihar Assistant District Education Officer",
+      "link": "https://example.com/bihar-education-officer"
+    },
+    {
+      "title": "Syllabus of Bihar Jeevika",
+      "link": "https://example.com/bihar-jeevika-syllabus"
+    },
+    {
+      "title": "BPSC 70th Question Analysis",
+      "link": "https://example.com/bpsc-analysis"
+    },
+    {
+      "title": "Latest Govt Exam Updates",
+      "link": "https://example.com/exam-updates"
+    }
+  ]
 }
